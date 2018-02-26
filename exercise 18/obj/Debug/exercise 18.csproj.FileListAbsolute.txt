@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\bin\Debug\exercise 18.exe.config
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\bin\Debug\exercise 18.exe
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\bin\Debug\exercise 18.pdb
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\obj\Debug\exercise 18.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\obj\Debug\exercise 18.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\obj\Debug\exercise 18.exe
+C:\Users\Grand Circus Student\source\repos\exercise 18\exercise 18\obj\Debug\exercise 18.pdb
